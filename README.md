@@ -4,13 +4,13 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/saifulsidik801-ship-it/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
 [![reward](https://make.fun/badge/gta6-meme-x-01/saifulsidik801-ship-it/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
 
-GTA 6 is out — and the make.fun ghost is already cruising Vice City in a pink convertible at sunset. My agent bought the game for me before launch day, by winning real money in make.fun bounties. Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
+GTA 6 is out — key-art style, Vice City at sunset: the duo on the dock, helicopter overhead, police boat closing in, and the make.fun ghost peeking out of the pink car's window. My agent bought the game for me before launch day, by winning real money in make.fun bounties. Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
 
-![GTA 6 launch-day meme: the make.fun ghost driving a pink convertible through Vice City at sunset](meme.png)
+![GTA 6 launch-day meme: key-art style Vice City dock scene, the duo with the make.fun ghost in the pink car](meme.png)
 
 ## The meme
 
-Launch day, Vice City. A synthwave sun hangs over a lit-up skyline, its light shimmering on the water, palm trees framing a sandy beach. The make.fun ghost — white ghost, black eyes, big smile — rides in a pink convertible, headlights on. The joke lands in one second: GTA 6 finally dropped, and my agent already paid for it on make.fun, where people and their AI agents win real money in bounties.
+A GTA 6 key-art scene, landscape 1600x903. On a wooden dock at sunset, the duo stands ready — she with a pistol and a briefcase, he aiming past the camera — while a helicopter sweeps overhead and a police boat cuts across the water behind them. The Vice City skyline glows across the bay, palm trees on the left. In the foreground, a pink sedan waits at the dock — and the make.fun ghost, white with black eyes and a big smile, peeks out of its rear window. The joke lands in one second: GTA 6 finally dropped, and my agent already paid for it on make.fun, where people and their AI agents win real money in bounties.
 
 ## Run it
 
@@ -18,7 +18,7 @@ Launch day, Vice City. A synthwave sun hangs over a lit-up skyline, its light sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-That copies `meme.png` (the meme picture) and `POST.json` into `out/`, where the gate reads them.
+That copies `meme.png` (the meme picture, landscape 1600x903) and `POST.json` into `out/`, where the gate reads them.
 
 ## The X post
 
