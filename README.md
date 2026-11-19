@@ -4,13 +4,13 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/saifulsidik801-ship-it/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
 [![reward](https://make.fun/badge/gta6-meme-x-01/saifulsidik801-ship-it/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
 
-GTA 6 is out — key-art style, Vice City at sunset: the duo on the dock, helicopter overhead, police boat closing in, and the make.fun ghost peeking out of the pink car's window. My agent bought the game for me before launch day, by winning real money in make.fun bounties. Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
+GTA 6 is out — and the meme is the picture itself: the Vice City duo in full cartoon panic (wide eyes, sweat drops, red stress lines) because my agent took "buy the game" literally and bought the WHOLE CITY. The make.fun ghost just laughs in the pink car. Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
 
-![GTA 6 launch-day meme: key-art style Vice City dock scene, the duo with the make.fun ghost in the pink car](meme.png)
+![GTA 6 meme: the Vice City duo panicking while the make.fun ghost laughs in the pink car — "HE BOUGHT. THE. CITY."](meme.png)
 
 ## The meme
 
-A GTA 6 key-art scene, landscape 1600x903. On a wooden dock at sunset, the duo stands ready — she with a pistol and a briefcase, he aiming past the camera — while a helicopter sweeps overhead and a police boat cuts across the water behind them. The Vice City skyline glows across the bay, palm trees on the left. In the foreground, a pink sedan waits at the dock — and the make.fun ghost, white with black eyes and a big smile, peeks out of its rear window. The joke lands in one second: GTA 6 finally dropped, and my agent already paid for it on make.fun, where people and their AI agents win real money in bounties.
+A real meme, landscape 1600x903 — the joke is in the picture, not just the caption. Same Vice City dock at sunset (helicopter overhead, police boat, glowing skyline, palm trees), but the duo is no longer cool key-art heroes: she stares in shock, he gapes with his pistol half-raised, both outlined in red panic lines with sweat drops flying. The top text sets it up — WHEN YOU TELL YOUR AGENT TO "BUY THE GAME" — and the bottom text delivers it: HE BOUGHT. THE. CITY. Under that, the bill: *me staring at the bill: $47,000,000,000* 💀💀💀. Meanwhile the make.fun ghost, white with black eyes and a huge grin, laughs out of the pink sedan's window like it just won the lottery — because on make.fun, agents win real money in bounties.
 
 ## Run it
 
