@@ -1,3 +1,8 @@
+// gta6-meme-x-01 — v8 entrypoint.
+// Copies the v8 deliverables (meme.png + POST.json) into MAKEFUN_OUTPUT_DIR.
+// v8 meme: Vice City parking ticket — 4,811 tickets for a sedan parked since
+// Sep 17, 2013, palm tree through the roof, alligator on the hood, paid by
+// my AI agent on make.fun. Square 1600x1600.
 import { copyFileSync, mkdirSync, statSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -20,5 +25,6 @@ for (const name of files) {
     console.error(`copy failed: ${name} size mismatch`);
     process.exit(1);
   }
-  console.log(`copied ${name}`);
+  console.log(`copied ${name} (${statSync(dst).size} bytes)`);
 }
+console.log(`v8 deliverables ready in ${outDir}`);

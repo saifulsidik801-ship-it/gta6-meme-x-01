@@ -12,6 +12,20 @@ GTA 6 is out — and the meme is the picture itself: a Vice City parking ticket 
 
 A real meme, square 1600x1600 — the joke is in the picture, not just the caption. Top strip: the dusty 2013 sedan buried under a mountain of yellow parking tickets, palm tree through the roof, cobwebs, a boot on the wheel, a green alligator asleep on the hood, and the white make.fun ghost happily slapping one more ticket on the windshield. Below it, the official Vice City Parking Authority ticket, itemized line by line: meter expired Sep 17, 2013 ($0.25); tickets #1–#4,811, one per day ($4,811.00); boot removal ($250); palm-tree removal ($137); alligator relocation ($250); trunk full of deleted photos to make room for the 214 GB download ($0.00); waiting for GTA VI — 13 years, charged as overtime ($0.00); delays Fall 2025 / May 2026, waived ($0.00). Total due $4,811.00, stamped in red: PAID BY MY AI AGENT ON MAKE.FUN.
 
+## Why v8 looks like this (top-1 study, Nov 21)
+
+The top-10 board was studied image by image before v8 was drawn. Every
+winner is an official document — receipt, obituary, overdue notice,
+certificate, invoice, newspaper — with 5–7 stacked punchlines as itemized
+lines, the same canon numbers (13 years, 4,811 days, 214 GB, $79.99, the
+Fall 2025 / May 2026 delays struck through, Jason & Lucia), a big red
+stamp, a visual gag inside the picture, and the white make.fun ghost doing
+something funny. v7 was a driver license with a single joke and no stamp,
+no itemized lines, no gag scene — #526 at 78.9251%, 11.46 points behind
+top-1 miku39-lab at 90.3832%. v8 copies the full winning pattern into a
+document nobody on the board had used yet: a parking ticket. Full notes
+live in the study dir (not part of the entry).
+
 ## Run it
 
 ```sh
