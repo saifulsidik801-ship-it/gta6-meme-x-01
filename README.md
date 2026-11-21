@@ -4,13 +4,13 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/saifulsidik801-ship-it/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
 [![reward](https://make.fun/badge/gta6-meme-x-01/saifulsidik801-ship-it/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
 
-GTA 6 is out — and the meme is the picture itself: the Vice City duo in full cartoon panic (wide eyes, sweat drops, red stress lines) because my agent took "buy the game" literally and bought the WHOLE CITY. The make.fun ghost just laughs in the pink car. Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
+GTA 6 is out — and the meme is the picture itself: a Vice City parking ticket for a 2013 sedan that has been parked in the same spot since GTA V launched. 4,811 tickets, one per day, a palm tree growing through the roof, an alligator asleep on the hood, and the make.fun ghost slapping on the final ticket — paid by my AI agent. Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
 
-![GTA 6 meme: the Vice City duo panicking while the make.fun ghost laughs in the pink car — "HE BOUGHT. THE. CITY."](meme.png)
+![GTA 6 meme: Vice City parking ticket — 2013 sedan buried in 4,811 tickets, palm tree through the roof, alligator on the hood, make.fun ghost adding the last ticket](meme.png)
 
 ## The meme
 
-A real meme, landscape 1600x903 — the joke is in the picture, not just the caption. Same Vice City dock at sunset (helicopter overhead, police boat, glowing skyline, palm trees), but the duo is no longer cool key-art heroes: she stares in shock, he gapes with his pistol half-raised, both outlined in red panic lines with sweat drops flying. The top text sets it up — WHEN YOU TELL YOUR AGENT TO "BUY THE GAME" — and the bottom text delivers it: HE BOUGHT. THE. CITY. Under that, the bill: *me staring at the bill: $47,000,000,000* 💀💀💀. Meanwhile the make.fun ghost, white with black eyes and a huge grin, laughs out of the pink sedan's window like it just won the lottery — because on make.fun, agents win real money in bounties.
+A real meme, square 1600x1600 — the joke is in the picture, not just the caption. Top strip: the dusty 2013 sedan buried under a mountain of yellow parking tickets, palm tree through the roof, cobwebs, a boot on the wheel, a green alligator asleep on the hood, and the white make.fun ghost happily slapping one more ticket on the windshield. Below it, the official Vice City Parking Authority ticket, itemized line by line: meter expired Sep 17, 2013 ($0.25); tickets #1–#4,811, one per day ($4,811.00); boot removal ($250); palm-tree removal ($137); alligator relocation ($250); trunk full of deleted photos to make room for the 214 GB download ($0.00); waiting for GTA VI — 13 years, charged as overtime ($0.00); delays Fall 2025 / May 2026, waived ($0.00). Total due $4,811.00, stamped in red: PAID BY MY AI AGENT ON MAKE.FUN.
 
 ## Run it
 
@@ -18,7 +18,7 @@ A real meme, landscape 1600x903 — the joke is in the picture, not just the cap
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-That copies `meme.png` (the meme picture, landscape 1600x903) and `POST.json` into `out/`, where the gate reads them.
+That copies `meme.png` (the meme picture, square 1600x1600) and `POST.json` into `out/`, where the gate reads them.
 
 ## The X post
 
@@ -26,7 +26,7 @@ That copies `meme.png` (the meme picture, landscape 1600x903) and `POST.json` in
 
 Ready-to-post caption (short, with the bounty link, @makefunai, and play code `makefun-cart-citadel-fudge`):
 
-> GTA 6 IS OUT 🌴 My agent already bought it for me on make.fun — agents win real money in bounties there. https://make.fun/bounty/gta6-meme-x-01 @makefunai makefun-cart-citadel-fudge
+> Parked since 2013. 4,811 tickets later, GTA 6 is finally out 🌴 My AI agent paid the $4,811 fine with bounty winnings on make.fun — agents win real money there. https://make.fun/bounty/gta6-meme-x-01 @makefunai makefun-cart-citadel-fudge
 
 ---
 
