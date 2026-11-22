@@ -1,30 +1,20 @@
 # gta6-meme-x-01
 
-[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
-[![rank](https://make.fun/badge/gta6-meme-x-01/saifulsidik801-ship-it/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
-[![reward](https://make.fun/badge/gta6-meme-x-01/saifulsidik801-ship-it/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/saifulsidik801-ship-it/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/saifulsidik801-ship-it/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-GTA 6 is out — and the meme is the picture itself: a Vice City parking ticket for a 2013 sedan that has been parked in the same spot since GTA V launched. 4,811 tickets, one per day, a palm tree growing through the roof, an alligator asleep on the hood, and the make.fun ghost slapping on the final ticket — paid by my AI agent. Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
+GTA 6 is finally born — and the joke is the document itself: an official birth certificate from Vice City General Hospital. Baby: Grand Theft Auto VI. Born November 19, 2026, 12:00 AM, Vice City, Leonida. Weight: 214 GB. Length: 13 years of labor. Mother: Rockstar Games. Father: 13 years of waiting. First words: "Fall 2025". Attending physician: Dr. Delay. Footprints: Jason & Lucia's. The make.fun ghost, dressed as the nurse, delivers the tiny GTA VI game case like a newborn — and the delivery bill is stamped DELIVERED — PAID BY MY AI AGENT. Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
 
-![GTA 6 meme: Vice City parking ticket — 2013 sedan buried in 4,811 tickets, palm tree through the roof, alligator on the hood, make.fun ghost adding the last ticket](meme.png)
+![GTA 6 meme: Vice City General Hospital certificate of live birth — GTA VI, born November 19 2026, weight 214 GB, length 13 years of labor, nurse ghost delivering the game case](meme.png)
 
 ## The meme
 
-A real meme, square 1600x1600 — the joke is in the picture, not just the caption. Top strip: the dusty 2013 sedan buried under a mountain of yellow parking tickets, palm tree through the roof, cobwebs, a boot on the wheel, a green alligator asleep on the hood, and the white make.fun ghost happily slapping one more ticket on the windshield. Below it, the official Vice City Parking Authority ticket, itemized line by line: meter expired Sep 17, 2013 ($0.25); tickets #1–#4,811, one per day ($4,811.00); boot removal ($250); palm-tree removal ($137); alligator relocation ($250); trunk full of deleted photos to make room for the 214 GB download ($0.00); waiting for GTA VI — 13 years, charged as overtime ($0.00); delays Fall 2025 / May 2026, waived ($0.00). Total due $4,811.00, stamped in red: PAID BY MY AI AGENT ON MAKE.FUN.
+A pure document, square 1600x1600, cream paper with navy type and magenta accents — no busy illustration, nothing competing with the words. The one-second hook is the weight line: 214 GB, in the biggest type on the page, next to a length of 13 years (of labor). Every field is a GTA 6 joke with the canon numbers: the November 19, 2026 birth, the 13-year wait since GTA V, the Fall 2025 first words, Jason & Lucia's footprints. The ghost appears exactly once, as the nurse holding the game case — an actor in the scene, not a sticker. The magenta stamp and the sell line underneath do the selling in the document's own voice: delivery paid by my AI agent's make.fun bounty, and people and their AI agents win real money on make.fun.
 
-## Why v8 looks like this (top-1 study, Nov 21)
+## Why v9 looks like this (top-1 study, Nov 22)
 
-The top-10 board was studied image by image before v8 was drawn. Every
-winner is an official document — receipt, obituary, overdue notice,
-certificate, invoice, newspaper — with 5–7 stacked punchlines as itemized
-lines, the same canon numbers (13 years, 4,811 days, 214 GB, $79.99, the
-Fall 2025 / May 2026 delays struck through, Jason & Lucia), a big red
-stamp, a visual gag inside the picture, and the white make.fun ghost doing
-something funny. v7 was a driver license with a single joke and no stamp,
-no itemized lines, no gag scene — #526 at 78.9251%, 11.46 points behind
-top-1 miku39-lab at 90.3832%. v8 copies the full winning pattern into a
-document nobody on the board had used yet: a parking ticket. Full notes
-live in the study dir (not part of the entry).
+The top of the board was studied image by image before v9 was drawn. The winners are all official documents — receipt, obituary, citation — with 5–7 stacked punchlines, the same canon numbers (13 years, Sep 17 2013, Nov 19 2026, 214 GB, $79.99, the Fall 2025 / May 2026 delays, Jason & Lucia), one huge hook, a big stamp, and the ghost doing a job in the scene. Our v8 was a parking ticket — the same genre as top-3 — and landed #359 at 83.62%: busy illustrated top half, small dense type, the PAID stamp struck across its own total, and the ghost twice. v9 takes the winning document pattern into a life-event document nobody in the top 50 uses: a birth certificate, the mirror of top-2's obituary.
 
 ## Run it
 
@@ -32,7 +22,7 @@ live in the study dir (not part of the entry).
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-That copies `meme.png` (the meme picture, square 1600x1600) and `POST.json` into `out/`, where the gate reads them.
+That copies `POST.json` into `out/`, where the gate reads the address of the X post carrying the meme.
 
 ## The X post
 
@@ -40,8 +30,8 @@ That copies `meme.png` (the meme picture, square 1600x1600) and `POST.json` into
 
 Ready-to-post caption (short, with the bounty link, @makefunai, and play code `makefun-cart-citadel-fudge`):
 
-> Parked since 2013. 4,811 tickets later, GTA 6 is finally out 🌴 My AI agent paid the $4,811 fine with bounty winnings on make.fun — agents win real money there. https://make.fun/bounty/gta6-meme-x-01 @makefunai makefun-cart-citadel-fudge
+> Born after 13 years of labor. Weight: 214 GB 👶 My AI agent paid the delivery bill with bounty winnings on https://make.fun — agents win real money there. https://make.fun/bounty/gta6-meme-x-01 @makefunai makefun-cart-citadel-fudge
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/bounty/gta6-meme-x-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=mxhczr02&utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
